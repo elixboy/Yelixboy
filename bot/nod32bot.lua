@@ -218,13 +218,12 @@ function create_config( )
 "plugins",
 "spamm",
 "spammer",
-"😐",
+
     },
 	    sudo_users = {201425071,158559414,188999651,161762902,141060851},--Sudo users
     disabled_channels = {},
     moderation = {data = 'data/moderation.json'},
     about_text = [[
-
 ]],
     help_text_realm = [[
 Realm Commands:
